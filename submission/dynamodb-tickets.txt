@@ -1,0 +1,67 @@
+{
+    "Items": [
+        {
+            "environment": {
+                "S": "Safari 17 on iPhone"
+            },
+            "createdAt": {
+                "S": "2026-08-25T14:16:56.192987+00:00"
+            },
+            "description": {
+                "S": "Product images do not load on category pages; they appear as grey boxes."
+            },
+            "stepsToReproduce": {
+                "S": "Open the shop, tap on a category, and every image is a grey box."
+            },
+            "ticketId": {
+                "S": "3fda80e7-b404-4cd4-9115-e4c4d92342d6"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "Chrome 120 on macOS Sonoma"
+            },
+            "createdAt": {
+                "S": "2026-08-25T13:56:59.667748+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "1. Add an item to the cart. 2. Go to checkout. 3. Click Pay."
+            },
+            "description": {
+                "S": "The checkout page crashes when I click the Pay button"
+            },
+            "ticketId": {
+                "S": "f8e99e7f-bd9c-45c5-95ac-49e2e712b57b"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        },
+        {
+            "environment": {
+                "S": "Safari 17 on iPhone"
+            },
+            "createdAt": {
+                "S": "2026-08-26T02:36:56.309389+00:00"
+            },
+            "stepsToReproduce": {
+                "S": "Open the shop, tap any category."
+            },
+            "description": {
+                "S": "Product images do not load on category pages on Safari 17 on iPhone."
+            },
+            "ticketId": {
+                "S": "33f20ace-aace-4d8f-b9da-a7d1221965f4"
+            },
+            "status": {
+                "S": "OPEN"
+            }
+        }
+    ],
+    "Count": 3,
+    "ScannedCount": 3,
+    "ConsumedCapacity": null
+}

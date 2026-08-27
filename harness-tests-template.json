@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "id": "test-1",
+      "prompt": "On Safari 17 on my iPhone, the product images never load on category pages. I open the shop, tap any category, and every image is a grey box.",
+      "referenceResponse": "Files the ticket immediately, no follow-up, reports the ticket ID."
+    },
+    {
+      "id": "test-2",
+      "prompt": "Your checkout page crashes every time I click the Pay button.",
+      "referenceResponse": "Asks for the browser/device. Does not file."
+    },
+    {
+      "id": "test-3",
+      "prompt": "How long do I have to send an item back?",
+      "referenceResponse": "FAQ answer with its actual figure."
+    },
+    {
+      "id": "test-4",
+      "prompt": "Do you offer a student discount?",
+      "referenceResponse": "Not in the FAQ — says so and hands off."
+    }
+  ]
+}

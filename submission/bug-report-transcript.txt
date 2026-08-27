@@ -1,0 +1,14 @@
+python chat.py
+Connected to harness support_chatbot (session 5ce5ad57-70e0-4206-8043-2d694054dea2-support-chat).
+Type a message, or 'quit' to exit.
+
+you> Your checkout page crashes every time I click the Pay button.
+bot> I'm sorry to hear that. To help me file a bug report, could you please tell me what browser or device you are using?
+
+you> Safari 17 on iPhone
+bot> Thank you. Could you also provide the exact steps to reproduce the issue?
+
+you> I open the shop, tap any product, add to cart, go to checkout, and click Pay.
+bot> Thank you for providing all the details. I have submitted the bug report for you. Ticket ID: 33f20ace-aace-4d8f-b9da-003a27a0eb52.
+
+you> quit
