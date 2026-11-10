@@ -1,3 +1,5 @@
+🌐 Language: English | [繁體中文](README_zh-TW.md)
+
 # Customer Support Chatbot with Amazon Bedrock AgentCore
 
 A hands-on AWS AI Agent project built as part of the Udacity AWS AI Agent Nanodegree.
