@@ -155,3 +155,11 @@ Agent 會檢查目前已取得的資訊，逐一詢問尚未提供的欄位。
 **專案類型：** Udacity AWS AI Agent Nanodegree 課程實作專案
 
 **技術重點：** Prompt Engineering · AI Agent Tool Integration · AWS · LLM Evaluation
+
+## 免責聲明
+
+本專案為本人參與 Udacity AI Agent Nanodegree 課程期間完成的學習專案。
+
+部分初始程式碼及專案素材由 Udacity 提供，本人亦在此基礎上進行修改、擴充及實作，完成相關功能。
+
+Udacity 所提供的原始教材及程式碼，其著作權仍歸原權利人所有，並受相關著作權及適用條款保護。
