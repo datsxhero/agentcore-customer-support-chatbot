@@ -139,3 +139,11 @@ Through this project, I gained hands-on experience with:
 
 **Project Type:** Udacity AWS AI Agent Nanodegree — Hands-on Training Project  
 **Focus:** Prompt Engineering · AI Agent Tool Integration · AWS · LLM Evaluation
+
+## Disclaimer
+
+This project was completed as part of the Udacity AI Agent Nanodegree program.
+
+Some starter code and project materials were originally provided by Udacity. The implementation includes my own modifications, additions, and contributions.
+
+All original Udacity materials remain subject to their respective copyrights and applicable terms.
